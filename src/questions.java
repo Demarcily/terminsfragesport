@@ -1,11 +1,8 @@
 import java.util.*;
-import javax.swing.*;
 
 public class questions {
   public static void main(String[] args) {
     Scanner in = new Scanner(System.in);
-
-
     String[] questions = {"Question 1", "Question 2", "Question 3"};
     int[] Answers = {1, 3, 5};
 
